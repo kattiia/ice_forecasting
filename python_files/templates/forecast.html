@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Мониторинг животных</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Прогноз границы</h1>
+
+        <div class="main-layout">
+            <div class="controls-wrapper">
+                <div class="controls-group">
+
+                    <!-- Поле Год + кнопка Отобразить -->
+                    <form method="POST" action="{{ url_for('forecast') }}" class="year-form">
+                        <div class="forecast-form-row">
+                            <label for="forecast_year">Год:</label>
+                            <input type="number" name="forecast_year" id="forecast_year" placeholder="Напр. 2024" required>
+                        </div>
+                        <button type="submit" name="action" value="show_forecast" class="control-btn show-btn">
+                            Отобразить
+                        </button>
+                    </form>
+
+                    <!-- Кнопка Спрогнозировать -->
+                    <form method="POST" action="{{ url_for('forecast') }}">
+                        <button type="submit" name="action" value="run_prediction" class="control-btn update-btn">
+                            Спрогнозировать
+                        </button>
+                    </form>
+
+                    <!-- Кнопка: добавить данные с БПЛА -->
+                    <button type="button" class="control-btn uav-btn" onclick="openModal()">
+                        Добавить данные с БПЛА
+                    </button>
+                </div>
+            </div>
+
+            <!-- Карта -->
+            <!-- Блок изображения и кнопки Назад -->
+<div class="image-container">
+    <img src="{{ url_for('predicted_image') }}?{{ time_now }}"
+         alt="Прогноз границ льда"
+         class="map-image">
+
+    <div class="back-button-wrapper">
+        <form action="{{ url_for('index') }}">
+            <button type="submit" class="control-btn back-btn">Назад</button>
+        </form>
+    </div>
+</div>
+        </div>
+    </div>
+
+    <!-- Модальное окно -->
+    <div id="uavModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <form method="post" action="{{ url_for('forecast') }}">
+                <label for="video_url">Ссылка на видео (Google Диск):</label>
+                <input type="text" name="video_url" id="video_url"
+                       placeholder="https://drive.google.com/file/d/.../view?usp=sharing" required>
+                <button type="submit" name="action" value="upload_uav" class="control-btn update-btn">
+                    Загрузить
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- JS -->
+    <script>
+        function openModal() {
+            document.getElementById("uavModal").style.display = "block";
+        }
+
+        function closeModal() {
+            document.getElementById("uavModal").style.display = "none";
+        }
+    </script>
+</body>
+</html>

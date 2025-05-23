@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Мониторинг животных</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Мониторинг животных</h1>
+        
+        <div class="main-layout">
+            <div class="controls-wrapper">
+                <div class="controls-group">
+                    <form method="POST" class="year-form">
+                        <div class="form-row">
+                            <label for="year">Год:</label>
+                            <input type="number" name="year" id="year" value="{{ year }}">
+                        </div>
+                        <button type="submit" class="control-btn update-btn">Обновить</button>
+                    </form>
+                    
+                    <form action="{{ url_for('forecast') }}" class="forecast-form">
+                        <button type="submit" class="control-btn forecast-btn">Прогноз</button>
+                    </form>
+                </div>
+            </div>
+        
+            <img src="{{ url_for('image') }}" alt="Карта животных и льда" class="map-image">
+        </div>
+</body>
+</html>
