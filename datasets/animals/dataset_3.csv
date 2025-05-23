@@ -1,0 +1,234 @@
+Field_ID,Lab_ID,Species,Common_name,Date,Latitude,Longitude,Age_class,Sex,Cryptosporidium,Giardia
+1AFSH001,ARFO-001,Vulpes lagopus,Arctic fox, 2014-05-06,71.1,-157.1,Adult,M,Negative,Negative
+1AFSH002,ARFO-003,Vulpes lagopus,Arctic fox, 2014-05-06,71.1,-157.1,Adult,M,Negative,Negative
+1AFSH004,ARFO-006,Vulpes lagopus,Arctic fox, 2014-05-06,71.1,-157.1,Adult,M,Negative,Negative
+2AFSH003,ARFO-010,Vulpes lagopus,Arctic fox, 2014-05-07,71.0,-157.2,Adult,M,Negative,Negative
+2AFSH004,ARFO-012,Vulpes lagopus,Arctic fox, 2014-05-07,71.3,-156.5,Adult,M,Negative,Negative
+1AFSH006,ARFO-013,Vulpes lagopus,Arctic fox, 2014-05-07,71.3,-156.6,Adult,M,Negative,Negative
+1AFSH008,ARFO-015,Vulpes lagopus,Arctic fox, 2014-05-07,71.1,-157.2,Adult,F,Negative,Negative
+1AFSH009,ARFO-016,Vulpes lagopus,Arctic fox, 2014-05-09,71.3,-156.5,Adult,M,Negative,Negative
+1AFSH010,ARFO-017,Vulpes lagopus,Arctic fox, 2014-05-09,71.1,-156.8,Adult,M,Negative,Negative
+2AFSH006,ARFO-021,Vulpes lagopus,Arctic fox, 2014-05-10,71.2,-156.9,Adult,F,Negative,Negative
+1AFSH018,ARFO-023,Vulpes lagopus,Arctic fox, 2014-05-10,71.2,-156.5,Adult,F,Negative,Negative
+1AFSH019,ARFO-024,Vulpes lagopus,Arctic fox, 2014-05-10,71.2,-156.9,Adult,M,Negative,Negative
+1AFSH044,ARFO-076,Vulpes lagopus,Arctic fox, 2014-05-12,71.2,-156.2,Adult,F,Negative,Negative
+3AFSH001,ARFO-077,Vulpes lagopus,Arctic fox, 2014-05-12,71.2,-156.3,Adult,F,Negative,Negative
+1AFSH021,ARFO-029,Vulpes lagopus,Arctic fox, 2014-05-13,71.3,-156.3,Adult,F,Negative,Negative
+1AFSH023,ARFO-032,Vulpes lagopus,Arctic fox, 2014-05-13,71.2,-155.7,Adult,F,Negative,Negative
+1AFSH024,ARFO-033,Vulpes lagopus,Arctic fox, 2014-05-13,71.1,-155.6,Adult,F,Negative,Negative
+2AFSH015,ARFO-034,Vulpes lagopus,Arctic fox, 2014-05-13,71.1,-155.6,Adult,F,Negative,Negative
+1AFSH025,ARFO-039,Vulpes lagopus,Arctic fox, 2014-05-13,71.1,-155.6,Adult,M,Negative,Negative
+1AFSH029,ARFO-040,Vulpes lagopus,Arctic fox, 2014-05-13,71.1,-155.6,Adult,M,Negative,Negative
+1AFSH032,ARFO-043,Vulpes lagopus,Arctic fox, 2014-05-14,71.2,-156.6,Adult,F,Negative,Negative
+1AFSH034,ARFO-046,Vulpes lagopus,Arctic fox, 2014-05-14,71.1,-156.5,Adult,F,Negative,Negative
+2AFSH021,ARFO-050,Vulpes lagopus,Arctic fox, 2014-05-16,71.2,-156.7,Adult,M,Negative,Negative
+2AFSH022,ARFO-052,Vulpes lagopus,Arctic fox, 2014-05-16,71.1,-156.3,Adult,F,Negative,Negative
+2AFSH023,ARFO-053,Vulpes lagopus,Arctic fox, 2014-05-16,71.2,-156.4,Adult,F,Negative,Negative
+2AFSH024,ARFO-054,Vulpes lagopus,Arctic fox, 2014-05-16,71.2,-156.7,Adult,F,Negative,Negative
+2AFSH025,ARFO-055,Vulpes lagopus,Arctic fox, 2014-05-16,71.1,-156.7,Adult,F,Negative,Negative
+1AFSH038,ARFO-057,Vulpes lagopus,Arctic fox, 2014-05-16,71.1,-156.3,Adult,M,Negative,Negative
+1AFSH039,ARFO-058,Vulpes lagopus,Arctic fox, 2014-05-18,71.1,-156.5,Adult,F,Negative,Negative
+1AFSH040,ARFO-060,Vulpes lagopus,Arctic fox, 2014-05-18,71,-156.1,Adult,F,Negative,Negative
+2AFSH028,ARFO-063,Vulpes lagopus,Arctic fox, 2014-05-18,71,-156,Adult,M,Negative,Negative
+2AFSH029,ARFO-066,Vulpes lagopus,Arctic fox, 2014-05-19,71,-156.7,Adult,F,Negative,Negative
+2AFSH030,ARFO-068,Vulpes lagopus,Arctic fox, 2014-05-21,71.1,-155.8,Adult,F,Negative,Negative
+2AFSH031,ARFO-069,Vulpes lagopus,Arctic fox, 2014-05-21,71.1,-155.6,Adult,M,Negative,Negative
+1AFSH041,ARFO-071,Vulpes lagopus,Arctic fox, 2014-05-22,71.2,-156.5,Adult,M,Negative,Negative
+1AFSH043,ARFO-074,Vulpes lagopus,Arctic fox, 2014-05-25,71.2,-156.7,Adult,F,Negative,Negative
+AWAFSH010,ARFO-178,Vulpes lagopus,Arctic fox, 2016-05-04,71.1,-157.3,Adult,M,Negative,Negative
+AWAFSH012,ARFO-180,Vulpes lagopus,Arctic fox, 2016-05-04,71,-157.2,Adult,F,Negative,Negative
+AWAFSH014,ARFO-182,Vulpes lagopus,Arctic fox, 2016-05-04,71.1,-156.8,Adult,F,Negative,Negative
+AWAFSH015,ARFO-183,Vulpes lagopus,Arctic fox, 2016-05-05,71.2,-156.7,Adult,M,Negative,Negative
+AWAFSH016,ARFO-184,Vulpes lagopus,Arctic fox, 2016-05-05,71.2,-156.6,Adult,M,Negative,Negative
+AWAFSH017,ARFO-185,Vulpes lagopus,Arctic fox, 2016-05-06,71.3,-156.6,Adult,M,Negative,Negative
+AWAFSH018,ARFO-186,Vulpes lagopus,Arctic fox, 2016-05-07,71,-157.1,Adult,M,Negative,Negative
+AWAFSH022,ARFO-189,Vulpes lagopus,Arctic fox, 2016-05-07,71,-156.4,Adult,F,Negative,Negative
+AWAFSH030,ARFO-190,Vulpes lagopus,Arctic fox, 2016-05-07,71.2,-156.7,Adult,M,Negative,Negative
+AWAFSH031,ARFO-192,Vulpes lagopus,Arctic fox, 2016-05-09,71.2,-156.7,Adult,M,Negative,Negative
+AWAFSH032,ARFO-193,Vulpes lagopus,Arctic fox, 2016-05-09,71.2,-156.7,Adult,F,Negative,Negative
+AWAFSH033,ARFO-194,Vulpes lagopus,Arctic fox, 2016-05-09,71.1,-156.7,Adult,M,Negative,Negative
+AWAFSH034,ARFO-195,Vulpes lagopus,Arctic fox, 2016-05-09,71.1,-156.8,Adult,M,Negative,Negative
+AWAFSH035,ARFO-196,Vulpes lagopus,Arctic fox, 2016-05-09,71,-156.8,Adult,M,Negative,Negative
+AWAFSH036,ARFO-197,Vulpes lagopus,Arctic fox, 2016-05-09,71,-156.3,Adult,M,Negative,Negative
+AWAFSH037,ARFO-198,Vulpes lagopus,Arctic fox, 2016-05-09,71,-156.2,Adult,F,Negative,Negative
+AWAFSH038,ARFO-199,Vulpes lagopus,Arctic fox, 2016-05-09,71,-156.3,Adult,M,Negative,Negative
+AWAFSH039,ARFO-200,Vulpes lagopus,Arctic fox, 2016-05-09,71,-156.2,Adult,M,Negative,Negative
+AWAFSH041,ARFO-201,Vulpes lagopus,Arctic fox, 2016-05-09,71.1,-156.3,Adult,F,Negative,Negative
+AWAFSH042,ARFO-202,Vulpes lagopus,Arctic fox, 2016-05-09,71.2,-156.4,Adult,M,Negative,Negative
+AWAFSH044,ARFO-204,Vulpes lagopus,Arctic fox, 2016-05-10,71.2,-156,Adult,F,Negative,Negative
+AWAFSH046,ARFO-207,Vulpes lagopus,Arctic fox, 2016-05-10,71.1,-155.7,Adult,F,Negative,Negative
+AWAFSH047,ARFO-208,Vulpes lagopus,Arctic fox, 2016-05-10,71.2,-156,Adult,M,Negative,Negative
+AWAFSH048,ARFO-209,Vulpes lagopus,Arctic fox, 2016-05-10,71.3,-156.5,Adult,F,Negative,Negative
+AWAFSH049,ARFO-210,Vulpes lagopus,Arctic fox, 2016-05-11,71.1,-156.9,Adult,M,Negative,Negative
+AWAFSH052,ARFO-213,Vulpes lagopus,Arctic fox, 2016-05-11,71.3,-156.5,Adult,M,Negative,Negative
+AWAFSH053,ARFO-214,Vulpes lagopus,Arctic fox, 2016-05-12,71.3,-156.5,Adult,M,Negative,Negative
+AWAFSH058,ARFO-217,Vulpes lagopus,Arctic fox, 2016-05-12,71,-156,Adult,M,Negative,Negative
+AWAFSH059,ARFO-218,Vulpes lagopus,Arctic fox, 2016-05-12,71.1,-155.8,Adult,M,Negative,Negative
+AWAFSH060,ARFO-219,Vulpes lagopus,Arctic fox, 2016-05-12,71.3,-156.6,Adult,M,Negative,Negative
+AWAFSH061,ARFO-220,Vulpes lagopus,Arctic fox, 2016-05-13,71.2,-156.3,Adult,F,Negative,Negative
+AWAFSH062,ARFO-221,Vulpes lagopus,Arctic fox, 2016-05-13,71.2,-156.1,Adult,F,Negative,Negative
+AWAFSH064,ARFO-223,Vulpes lagopus,Arctic fox, 2016-05-14,71.2,-156.5,Adult,M,Negative,Negative
+AWAFSH065,ARFO-224,Vulpes lagopus,Arctic fox, 2016-05-14,71.2,-156.4,Adult,F,Negative,Negative
+AWAFSH066,ARFO-225,Vulpes lagopus,Arctic fox, 2016-05-15,71,-156.4,Adult,F,Negative,Negative
+AWAFSH067,ARFO-226,Vulpes lagopus,Arctic fox, 2016-05-16,71.2,-156.2,Adult,M,Negative,Negative
+AWAFSH068,ARFO-227,Vulpes lagopus,Arctic fox, 2016-05-16,71.1,-155.8,Adult,F,Negative,Negative
+AWAFSH069,ARFO-228,Vulpes lagopus,Arctic fox, 2016-05-16,71.1,-155.6,Adult,F,Negative,Negative
+AWAFSH070,ARFO-229,Vulpes lagopus,Arctic fox, 2016-05-16,71.2,-156.3,Adult,F,Negative,Negative
+ZHAFSH001,ARFO-231,Vulpes lagopus,Arctic fox, 2016-05-23,71.2,-156.6,Adult,F,Negative,Negative
+ZHAFSH002,ARFO-232,Vulpes lagopus,Arctic fox, 2016-05-25,71.3,-156.5,Adult,F,Negative,Negative
+ZHAFSH003,ARFO-234,Vulpes lagopus,Arctic fox, 2016-06-08,71.3,-156.5,Adult,M,Negative,Negative
+ZHAFSH004,ARFO-235,Vulpes lagopus,Arctic fox, 2016-06-10,71.3,-156.4,Adult,F,Negative,Negative
+1AFSH003,ARFO-004,Vulpes lagopus,Arctic fox, 2014-05-06,71.1,-157.1,Adult,F,Positive,Negative
+2AFSH001,ARFO-007,Vulpes lagopus,Arctic fox, 2014-05-06,71.1,-157.1,Adult,M,Positive,Negative
+2AFSH002,ARFO-008,Vulpes lagopus,Arctic fox, 2014-05-06,71.1,-157,Adult,F,Positive,Negative
+2AFSH016,ARFO-036,Vulpes lagopus,Arctic fox, 2014-05-13,71.3,-156.5,Adult,F,Positive,Negative
+1AFSH031,ARFO-042,Vulpes lagopus,Arctic fox, 2014-05-14,71.2,-156.6,Adult,M,Positive,Negative
+1AFSH033,ARFO-045,Vulpes lagopus,Arctic fox, 2014-05-14,71.2,-156.7,Adult,M,Positive,Negative
+2AFSH019,ARFO-047,Vulpes lagopus,Arctic fox, 2014-05-14,71.1,-156.5,Adult,M,Positive,Negative
+2AFSH032,ARFO-070,Vulpes lagopus,Arctic fox, 2014-05-21,71,-155.9,Adult,M,Positive,Negative
+AWAFSH013,ARFO-181,Vulpes lagopus,Arctic fox, 2016-05-04,71,-157,Adult,F,Positive,Negative
+AWAFSH051,ARFO-212,Vulpes lagopus,Arctic fox, 2016-05-11,71.2,-156.4,Adult,M,Positive,Negative
+2AFSH014,ARFO-027,Vulpes lagopus,Arctic fox, 2014-05-10,71.1,-156.5,Adult,F,Negative,Positive
+2AFSH018,ARFO-038,Vulpes lagopus,Arctic fox, 2014-05-13,71.2,-155.9,Adult,F,Negative,Positive
+1AFSH030,ARFO-041,Vulpes lagopus,Arctic fox, 2014-05-13,71.1,-155.8,Adult,F,Negative,Positive
+2AFSH020,ARFO-048,Vulpes lagopus,Arctic fox, 2014-05-15,71,-156.6,Adult,M,Negative,Positive
+AWAFSH011,ARFO-179,Vulpes lagopus,Arctic fox, 2016-05-04,71,-157.2,Adult,M,Negative,Positive
+AWAFSH019,ARFO-187,Vulpes lagopus,Arctic fox, 2016-05-07,71,-157,Adult,M,Negative,Positive
+AWAFSH020,ARFO-188,Vulpes lagopus,Arctic fox, 2016-05-07,71,-156.5,Adult,M,Negative,Positive
+AWAFSH043,ARFO-203,Vulpes lagopus,Arctic fox, 2016-05-10,71.2,-156.1,Adult,M,Negative,Positive
+AWAFSH045,ARFO-205,Vulpes lagopus,Arctic fox, 2016-05-10,71.2,-156.1,Adult,F,Negative,Positive
+AWAFSH050,ARFO-211,Vulpes lagopus,Arctic fox, 2016-05-11,71.1,-156.3,Adult,M,Negative,Positive
+AWAFSH054,ARFO-215,Vulpes lagopus,Arctic fox, 2016-05-12,71.1,-156.1,Adult,M,Negative,Positive
+AWAFSH063,ARFO-222,Vulpes lagopus,Arctic fox, 2016-05-13,71.2,-156.1,Adult,M,Negative,Positive
+1AFSH007,ARFO-014,Vulpes lagopus,Arctic fox, 2014-05-07,71,-157.1,Adult,F,Positive,Positive
+2AFSH005,ARFO-020,Vulpes lagopus,Arctic fox, 2014-05-09,71.1,-156.5,Adult,F,Positive,Positive
+1AFSH017,ARFO-022,Vulpes lagopus,Arctic fox, 2014-05-10,71,-156.7,Adult,F,Positive,Positive
+1AFSH020,ARFO-026,Vulpes lagopus,Arctic fox, 2014-05-10,71,-156.9,Adult,F,Positive,Positive
+2AFSH017,ARFO-037,Vulpes lagopus,Arctic fox, 2014-05-13,71.2,-156.1,Adult,M,Positive,Positive
+1AFSH042,ARFO-072,Vulpes lagopus,Arctic fox, 2014-05-24,71,-156.3,Adult,F,Positive,Positive
+AWAFSH055,ARFO-216,Vulpes lagopus,Arctic fox, 2016-05-12,71.1,-156.2,Adult,F,Positive,Positive
+AWAFSH072,ARFO-230,Vulpes lagopus,Arctic fox, 2016-05-23,71.3,-156.5,Adult,F,Positive,Positive
+CAH15001,CA01,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.7,Adult,F,Negative,Negative
+CAH15002,CA02,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.7,Adult,F,Negative,Negative
+CAH15003,CA03,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.7,Adult,F,Negative,Negative
+CAH15004,CA04,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.3,Adult,F,Negative,Negative
+CAH15005,CA05,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.3,Adult,F,Negative,Negative
+CAH15006,CA06,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.3,Adult,F,Negative,Negative
+CAH15007,CA07,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.2,Adult,F,Negative,Negative
+CAH15008,CA08,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.2,Adult,F,Negative,Negative
+CAH15009,CA09,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.2,Adult,F,Negative,Negative
+CAH15010,CA10,Rangifer tarandus,Caribou, 2015-04-22,67.5,-148.2,Adult,F,Negative,Negative
+CAH15011,CA11,Rangifer tarandus,Caribou, 2015-04-22,67.5,-147.9,Adult,F,Negative,Negative
+CAH15012,CA12,Rangifer tarandus,Caribou, 2015-04-22,67.5,-147.8,Adult,F,Negative,Negative
+CAH15013,CA13,Rangifer tarandus,Caribou, 2015-04-23,67.5,-148.7,Adult,F,Negative,Negative
+CAH15014,CA14,Rangifer tarandus,Caribou, 2015-04-23,67,-148.7,Adult,F,Negative,Negative
+CAH15015,CA15,Rangifer tarandus,Caribou, 2015-04-23,67.5,-148.3,Adult,F,Negative,Negative
+CAH15016,CA16,Rangifer tarandus,Caribou, 2015-04-23,67.5,-148.3,Adult,F,Negative,Negative
+CAH15019,CA19,Rangifer tarandus,Caribou, 2015-04-23,67.5,-147.7,Adult,F,Negative,Negative
+CAH15021,CA21,Rangifer tarandus,Caribou, 2015-04-23,67.5,-148.2,Adult,F,Negative,Negative
+CAH15022,CA22,Rangifer tarandus,Caribou, 2015-04-23,67.5,-148.2,Adult,F,Negative,Negative
+CAH15023,CA23,Rangifer tarandus,Caribou, 2015-04-23,67.5,-148.2,Adult,F,Negative,Negative
+CAH15024,CA24,Rangifer tarandus,Caribou, 2015-04-23,67.5,-148.2,Adult,F,Negative,Negative
+CAH15026,CA26,Rangifer tarandus,Caribou, 2015-04-26,67.5,-148.6,Adult,F,Negative,Negative
+CAH15027,CA27,Rangifer tarandus,Caribou, 2015-04-26,67.6,-148.6,Adult,F,Negative,Negative
+CAH15028,CA28,Rangifer tarandus,Caribou, 2015-04-26,67.6,-148.6,Adult,F,Negative,Negative
+CAH15029,CA29,Rangifer tarandus,Caribou, 2015-04-26,67.6,-148.6,Adult,F,Negative,Negative
+CAH15030,CA30,Rangifer tarandus,Caribou, 2015-04-26,67.6,-148.6,Adult,F,Negative,Negative
+CAH15031,CA31,Rangifer tarandus,Caribou, 2015-04-26,67.6,-148.6,Adult,F,Negative,Negative
+CAH15032,CA32,Rangifer tarandus,Caribou, 2015-04-26,67.8,-148.8,Adult,F,Negative,Negative
+CAH15033,CA33,Rangifer tarandus,Caribou, 2015-04-26,67.8,-149,Adult,F,Negative,Negative
+CAH15034,CA34,Rangifer tarandus,Caribou, 2015-04-26,67.8,-148.9,Adult,F,Negative,Negative
+CAH15035,CA35,Rangifer tarandus,Caribou, 2015-04-26,67.8,-148.9,Adult,F,Negative,Negative
+C-1708,CA36,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1709,CA37,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1710,CA38,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1707,CA39,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1704,CA40,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1701,CA41,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1422,CA42,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1702,CA44,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1706,CA53,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1705,CA54,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1532,CA55,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1703,CA56,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1711,CA57,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+FY0924,CA58,Rangifer tarandus,Caribou, 2017-04-18,67.5,-148.5,Adult,F,Negative,Negative
+C-1436,CA45,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1712,CA46,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1713,CA47,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1715,CA48,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1716,CA49,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1718,CA50,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1507,CA51,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1714,CA52,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1407,CA59,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+C-1522,CA60,Rangifer tarandus,Caribou, 2017-04-19,67.5,-148.5,Adult,F,Negative,Negative
+21343,PB050,Ursus maritimus,Polar bear, 2015-04-11,70.5,-148.8,Subadult,F,Negative,Negative
+22302,PB067,Ursus maritimus,Polar bear, 2015-04-16,70.7,-148.5,Adult,F,Negative,Negative
+21249,PB045,Ursus maritimus,Polar bear, 2015-04-17,70.5,-147.8,Adult,F,Negative,Negative
+21214,PB044,Ursus maritimus,Polar bear, 2015-04-17,70.3,-146.7,Adult,F,Negative,Negative
+22308,PB069,Ursus maritimus,Polar bear, 2015-04-22,70.4,-147.5,Subadult,F,Negative,Negative
+32366,PB073,Ursus maritimus,Polar bear, 2015-05-06,70.3,-143.8,Adult,F,Negative,Negative
+22311,PB071,Ursus maritimus,Polar bear, 2015-05-07,70.6,-148,Subadult,F,Negative,Negative
+22309,PB070,Ursus maritimus,Polar bear, 2015-04-23,70.4,-147,Adult,F,Negative,Positive
+NM12-S02,NM12-S02,Odobenus rosmarus divergens,Pacific walrus, 2012-07-12,71.5,-166.3,Unknown,U,Negative,Negative
+NM12-S04,NM12-S04,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.6,Unknown,U,Negative,Negative
+NM12-S06,NM12-S06,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.6,Unknown,U,Negative,Negative
+NM12-S07,NM12-S07,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S28,NM12-S28,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.9,Unknown,U,Negative,Negative
+NM12-S09,NM12-S09,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.9,Unknown,U,Negative,Negative
+NM12-S10,NM12-S10,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.9,Unknown,U,Negative,Negative
+NM12-S27,NM12-S27,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.9,Unknown,U,Negative,Negative
+NM12-S29,NM12-S29,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.9,Unknown,U,Negative,Negative
+NM12-S30,NM12-S30,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,70.9,-161.9,Unknown,U,Negative,Negative
+NM12-S19,NM12-S19,Odobenus rosmarus divergens,Pacific walrus, 2012-07-14,71,-161.9,Unknown,U,Negative,Negative
+NM12-S17,NM12-S17,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.4,Unknown,U,Negative,Negative
+NM12-S33,NM12-S33,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S55,NM12-S55,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S31,NM12-S31,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S01,NM12-S01,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S34,NM12-S34,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S36,NM12-S36,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S37,NM12-S37,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,70.9,-161.7,Unknown,U,Negative,Negative
+NM12-S16,NM12-S16,Odobenus rosmarus divergens,Pacific walrus, 2012-07-17,70.7,-161.4,Unknown,U,Negative,Negative
+NM12-S15,NM12-S15,Odobenus rosmarus divergens,Pacific walrus, 2012-07-17,70.7,-161.4,Unknown,U,Negative,Negative
+NM13S-110,NM13S-110,Odobenus rosmarus divergens,Pacific walrus, 2013-07-15,71.4,-163,Unknown,U,Negative,Negative
+NM13S-109,NM13S-109,Odobenus rosmarus divergens,Pacific walrus, 2013-07-15,71.4,-163,Unknown,U,Negative,Negative
+NM13S-102,NM13S-102,Odobenus rosmarus divergens,Pacific walrus, 2013-07-15,71.4,-164,Unknown,U,Negative,Negative
+NM13S-103,NM13S-103,Odobenus rosmarus divergens,Pacific walrus, 2013-07-15,71.4,-164,Unknown,U,Negative,Negative
+NM13S-104,NM13S-104,Odobenus rosmarus divergens,Pacific walrus, 2013-07-16,71.4,-164,Unknown,U,Negative,Negative
+NM13S-105,NM13S-105,Odobenus rosmarus divergens,Pacific walrus, 2013-07-16,71.4,-164,Unknown,U,Negative,Negative
+NM13S-106,NM13S-106,Odobenus rosmarus divergens,Pacific walrus, 2013-07-16,71.4,-164,Unknown,U,Negative,Negative
+NM13S-101,NM13S-101,Odobenus rosmarus divergens,Pacific walrus, 2013-07-16,71.4,-163.4,Unknown,U,Negative,Negative
+NM13S-108,NM13S-108,Odobenus rosmarus divergens,Pacific walrus, 2013-07-16,71.4,-163.4,Unknown,U,Negative,Negative
+NM13S-111,NM13S-111,Odobenus rosmarus divergens,Pacific walrus, 2013-07-16,71.4,-163.4,Unknown,U,Negative,Negative
+NM13S-117,NM13S-117,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+NM13S-116,NM13S-116,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+NM13S-118,NM13S-118,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+NM13S-132,NM13S-132,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+NM13S-136,NM13S-136,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+NM13S-119,NM13S-119,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+NM13S-113,NM13S-113,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+NM13S-114,NM13S-114,Odobenus rosmarus divergens,Pacific walrus, 2013-07-20,70.9,-157.9,Unknown,U,Negative,Negative
+W14-S001,W14-S001,Odobenus rosmarus divergens,Pacific walrus, 2014-05-31,66.8,-168.1,Unknown,U,Negative,Negative
+W14-S002,W14-S002,Odobenus rosmarus divergens,Pacific walrus, 2014-05-31,66.8,-168.1,Unknown,U,Negative,Negative
+W14-S004,W14-S004,Odobenus rosmarus divergens,Pacific walrus, 2014-06-13,70.1,-162.9,Unknown,U,Negative,Negative
+W14-S005,W14-S005,Odobenus rosmarus divergens,Pacific walrus, 2014-06-13,70.1,-162.9,Unknown,U,Negative,Negative
+W14-S006,W14-S006,Odobenus rosmarus divergens,Pacific walrus, 2014-06-13,70,-162.9,Unknown,U,Negative,Negative
+W14-S007,W14-S007,Odobenus rosmarus divergens,Pacific walrus, 2014-06-13,70,-162.9,Unknown,U,Negative,Negative
+W14-S008,W14-S008,Odobenus rosmarus divergens,Pacific walrus, 2014-06-21,69.8,-163.6,Unknown,U,Negative,Negative
+W14-S009,W14-S009,Odobenus rosmarus divergens,Pacific walrus, 2014-06-21,69.8,-163.6,Unknown,U,Negative,Negative
+W14-S010,W14-S010,Odobenus rosmarus divergens,Pacific walrus, 2014-06-21,69.8,-163.6,Unknown,U,Negative,Negative
+W14-S011,W14-S011,Odobenus rosmarus divergens,Pacific walrus, 2014-06-25,70.6,-162.3,Unknown,U,Negative,Negative
+W14-S012,W14-S012,Odobenus rosmarus divergens,Pacific walrus, 2014-06-25,70.6,-162.3,Unknown,U,Negative,Negative
+NM12_S12,NM12_S12,Odobenus rosmarus divergens,Pacific walrus, 2012-07-15,71,-161.6,Unknown,U,Negative,Negative
+NM15-S02,NM15-S02,Odobenus rosmarus divergens,Pacific walrus, 2015-07-14,71.6,-161.6,Unknown,U,Negative,Negative
+NM15-S03,NM15-S03,Odobenus rosmarus divergens,Pacific walrus, 2015-07-14,71.6,-161.6,Unknown,U,Negative,Negative
+NM15-S04,NM15-S04,Odobenus rosmarus divergens,Pacific walrus, 2015-07-14,71.6,-161.6,Unknown,U,Negative,Negative
+NM15-S05,NM15-S05,Odobenus rosmarus divergens,Pacific walrus, 2015-07-14,71.6,-161.6,Unknown,U,Negative,Negative
+NM15-S07,NM15-S07,Odobenus rosmarus divergens,Pacific walrus, 2015-07-15,71.5,-162,Unknown,U,Negative,Negative
+NM15-S08,NM15-S08,Odobenus rosmarus divergens,Pacific walrus, 2015-07-15,71.5,-162,Unknown,U,Negative,Negative
+NM15-S09,NM15-S09,Odobenus rosmarus divergens,Pacific walrus, 2015-07-15,71.5,-162,Unknown,U,Negative,Negative
+NM15-S10,NM15-S10,Odobenus rosmarus divergens,Pacific walrus, 2015-07-15,71.5,-162,Unknown,U,Negative,Negative
+NM15-S11,NM15-S11,Odobenus rosmarus divergens,Pacific walrus, 2015-07-15,71.5,-162,Unknown,U,Negative,Negative
+NM15-S12,NM15-S12,Odobenus rosmarus divergens,Pacific walrus, 2015-07-17,71.9,-163.2,Unknown,U,Negative,Negative
